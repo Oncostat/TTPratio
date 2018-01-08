@@ -1,5 +1,5 @@
 # TTPratio
-Estimation of the probability of patients having a time to progression ratio superior to a given threshold
+Estimation of the probability of patients having a time to progression ratio superior to a given threshold.
 The R files are separated in 3 sections:
 - Data generation:
 Generation of a dataframe containing different variables 
